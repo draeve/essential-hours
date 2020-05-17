@@ -130,6 +130,9 @@ a {
 }
 
 #mod-start, #mod-end {
+    line-height: 2.5em;
+    text-align: center;
+    align-content: center;
     text-decoration: none;
     font-weight: normal;
 }
