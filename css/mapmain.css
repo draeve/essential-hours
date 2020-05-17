@@ -129,6 +129,11 @@ a {
     font-style: italic;
 }
 
+#mod-start, #mod-end {
+    text-decoration: none;
+    font-weight: normal;
+}
+
 #place-id {
     font-size: 14px;
 }
